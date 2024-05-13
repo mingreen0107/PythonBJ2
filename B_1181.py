@@ -12,7 +12,7 @@ for i in words:
     print(i)
 
 '''
-버블정렬은 배웠지만 시간초과 문제를 해결하지 못 함
+버블정렬은 배웠지만 시간 초과 문제를 해결하지 못 함
 
 def bubble_sort(arr):
     for i in range(len(arr) - 1, 0, -1):
