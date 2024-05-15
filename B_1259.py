@@ -1,5 +1,4 @@
 # 팰린드롬
 
-def palindrome(list):
-    listLen = len(list)
-    for i in listLen/2:
+while int(s := input()):
+    print('yneos'[s != s[::-1]::2])
