@@ -1,4 +1,4 @@
-# 수 찾기
+# 수 찾기 있으면 1, 없으면 0
 
 for i in range(N := int(input())):
     M = int(input())
