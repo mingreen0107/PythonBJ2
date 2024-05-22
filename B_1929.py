@@ -8,4 +8,4 @@ for i in l[2:]:
     if l[i] >= m:
         print(i)
 
-    l[i::i]=n // i*[0]
+    l[i::i]= n//i * [0]

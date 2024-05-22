@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b33a1e44-e12b-457e-837e-a0e1d1544ac4" name="Changes" comment="p" />
+    <list default="true" id="b33a1e44-e12b-457e-837e-a0e1d1544ac4" name="Changes" comment="p">
+      <change afterPath="$PROJECT_DIR$/B_1978.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/B_1929.py" beforeDir="false" afterPath="$PROJECT_DIR$/B_1929.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +39,8 @@
     "Python.B_1259.executor": "Run",
     "Python.B_1436.executor": "Run",
     "Python.B_1920.executor": "Run",
-    "Python.B_1929.executor": "Run",
+    "Python.B_1929.executor": "Debug",
+    "Python.B_1978.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -170,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716203245299</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="p">
+      <option name="closed" value="true" />
+      <created>1716307760823</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1716307760824</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,16 +202,6 @@
           <url>file://$PROJECT_DIR$/B_1181.py</url>
           <line>35</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/B_1929.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/B_1929.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
