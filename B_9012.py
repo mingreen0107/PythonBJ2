@@ -13,6 +13,7 @@ for i in range(T):
         elif j == ')':
             if stack:
                 stack.pop()
+
             else:
                 print("NO")
                 break
@@ -20,5 +21,6 @@ for i in range(T):
     else:
         if not stack:
             print("YES")
+
         else:
             print("NO")
