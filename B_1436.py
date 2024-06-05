@@ -4,7 +4,6 @@ n = int(input())
 i = 0
 
 while n:
-    i += 1
-    n -= '666' in str(i)
+    i += 1;n -= '666' in str(i)
 
 print(i)
