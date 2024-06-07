@@ -1,6 +1,6 @@
 # M 이상 N 이하의 소수 출력
 
-m,n = map(int,input().split())
+m, n = map(int, input().split())
 
 *l, = range(n+1)
 
