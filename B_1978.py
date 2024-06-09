@@ -1,7 +1,6 @@
 # 소수 찾기
 
 input()
-
 numbers = map(int, input().split())
 
 def is_prime(n):
