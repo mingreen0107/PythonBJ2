@@ -9,8 +9,9 @@ for i in range(N):
     if order == 'push':
         print(num := int(input()))
         lst.append(num)
+
     elif order == 'pop':
         print(lst.pop())
+
     elif order == 'size':
         print()
-
