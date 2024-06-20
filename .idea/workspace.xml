@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b33a1e44-e12b-457e-837e-a0e1d1544ac4" name="Changes" comment="p">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b33a1e44-e12b-457e-837e-a0e1d1544ac4" name="Changes" comment="p" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,27 +29,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.B_1018.executor": "Run",
-    "Python.B_10816.executor": "Run",
-    "Python.B_10845.executor": "Debug",
-    "Python.B_11650.executor": "Debug",
-    "Python.B_1181.executor": "Run",
-    "Python.B_11866.executor": "Debug",
-    "Python.B_1259.executor": "Run",
-    "Python.B_1436.executor": "Run",
-    "Python.B_1920.executor": "Run",
-    "Python.B_1929.executor": "Run",
-    "Python.B_1978.executor": "Debug",
-    "Python.B_9012.executor": "Debug",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/admin/PycharmProjects/pythonTest"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.B_1018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_10816.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_10845.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.B_11650.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.B_1181.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_11866.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.B_1259.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1436.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1920.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1929.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B_1978.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.B_9012.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/PycharmProjects/pythonTest&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -364,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718614576436</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="p">
+      <option name="closed" value="true" />
+      <created>1718813384313</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1718813384313</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

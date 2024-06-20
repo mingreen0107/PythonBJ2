@@ -13,6 +13,7 @@ while queue:
 
     if idx >= len(queue):
         idx %= len(queue)
+
     res.append(str(queue.pop(idx)))
 
 print("<", ", ".join(res), ">", sep="")
