@@ -8,6 +8,7 @@ N, K = map(int, sys.stdin.readline().split())
 idx = 0
 queue = [i for i in range(1, N+1)]
 res = []
+
 while queue:
     idx += K-1
 
